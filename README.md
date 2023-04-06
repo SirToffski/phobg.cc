@@ -20,7 +20,7 @@
 |Auto-Initialize|AXY+Z|
 |Increase/Decrease Rumble|AB+Du/Dd|
 |Show Current Rumble Setting|AB+Start|
-||Calibration||
+|Calibration||
 |Analog Stick Calibration|AXY+L|
 |C-Stick Calibration|AXY+R|
 |Advance Calibration|A or L or R|
