@@ -1,7 +1,7 @@
 # phobg.cc
 
 ## Latest Software Versions
-* **For V1 Boards**: (https://github.com/PhobGCC/PhobGCC-SW/archive/refs/tags/v0.28.zip)
+* **For V1 Boards**: [https://github.com/PhobGCC/PhobGCC-SW/archive/refs/tags/v0.28.zip](https://github.com/PhobGCC/PhobGCC-SW/archive/refs/tags/v0.28.zip)
 * **For V2 Boards**: https://github.com/PhobGCC/PhobGCC-SW/releases/download/v0.28/phobgcc_rp2040_v0.28.uf2
 
 ## User Guides
