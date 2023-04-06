@@ -20,7 +20,6 @@
 |Auto-Initialize|AXY+Z|
 |Increase/Decrease Rumble|AB+Du/Dd|
 |Show Current Rumble Setting|AB+Start|
-|Calibration||
 |Analog Stick Calibration|AXY+L|
 |C-Stick Calibration|AXY+R|
 |Advance Calibration|A or L or R|
@@ -28,3 +27,27 @@
 |Skip to Notch Adjustment|Start|
 |Notch Adjustment CW/CCW|X/Y|
 |Notch Adjustment Reset|B|
+|Analog X-Axis Snapback Filtering|AX+Du/Dd|
+|Analog Y-Axis Snapback Filtering|AY+Du/Dd|
+|Analog X-Axis Waveshaping|LX+Du/Dd|
+|Analog Y-Axis Waveshaping|LY+Du/Dd|
+|Analog X-Axis Smoothing|RX+Du/Dd|
+|Analog Y-Axis Smoothing|RY+Du/Dd|
+|Show Analog Filtering Settings|L+Start|
+|C-Stick X-Axis Snapback Filtering|AXZ+Du/Dd|
+|C-Stick Y-Axis Snapback Filtering|AYZ+Du/Dd|
+|C-Stick X-Axis Waveshaping|LXZ+Du/Dd|
+|C-Stick X-Axis Waveshaping|LXZ+Du/Dd|
+|C-Stick X-Axis Offset|RXZ+Du/Dd|
+|C-Stick Y-Axis Offset|RYZ+Du/Dd|
+|Show C-Stick Settings|R+Start|
+|Swap X with Z|XZ+Start|
+|Swap Y with Z|YZ+Start|
+|Swap X with L|LX+Start|
+|Swap Y with L|LY+Start|
+|Swap X with R|RX+Start|
+|Swap Y with R|Ry+Start|
+|Toggle L Trigger Mode|AB+L|
+|Toggle R Trigger Mode|AB+R|
+|L-trigger Offset|LB+Du/Dd|
+|R-Trigger Offset|RB+Du/Dd|
