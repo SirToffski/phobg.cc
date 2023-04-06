@@ -1,5 +1,8 @@
 # phobgcc - quick reference
 
+> **Note**
+> This site is neither officially affiliated with nor has been endorsed by the PhobGCC developer team. Its purpose is to be a personal quick-reference guide. I have decided to make it publically available, however there is **no guarantee** of completeness, correctness or being up-to-date. The author claims no responsibility for anyone using any of the information below.
+
 ## Latest Software Versions
 * **For V1 Boards**: [https://github.com/PhobGCC/PhobGCC-SW/archive/refs/tags/v0.28.zip](https://github.com/PhobGCC/PhobGCC-SW/archive/refs/tags/v0.28.zip)
 * **For V2 Boards**: [https://github.com/PhobGCC/PhobGCC-SW/releases/download/v0.28/phobgcc_rp2040_v0.28.uf2](https://github.com/PhobGCC/PhobGCC-SW/releases/download/v0.28/phobgcc_rp2040_v0.28.uf2)
