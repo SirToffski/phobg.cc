@@ -12,18 +12,19 @@
 
 ## Commands Quick Reference
 
-Command|Buttons
-Safe Mode on\off|AXY+Start
-Display Version|AZ+Du
-Soft Reset|ABZ+Start
-Auto-Initialize|AXY+Z
-Increase/Decrease Rumble|AB+Du/Dd
-Show Current Rumble Setting|AB+Start
+|Command|Buttons|
+|-------|-------|
+|Safe Mode on\off|AXY+Start|
+|Display Version|AZ+Du|
+|Soft Reset|ABZ+Start|
+|Auto-Initialize|AXY+Z|
+|Increase/Decrease Rumble|AB+Du/Dd|
+|Show Current Rumble Setting|AB+Start|
 ||Calibration||
-Analog Stick Calibration|AXY+L
-C-Stick Calibration|AXY+R
-Advance Calibration|A or L or R
-Undo Calibration|Z
-Skip to Notch Adjustment|Start
-Notch Adjustment CW/CCW|X/Y
-Notch Adjustment Reset|B
+|Analog Stick Calibration|AXY+L|
+|C-Stick Calibration|AXY+R|
+|Advance Calibration|A or L or R|
+|Undo Calibration|Z|
+|Skip to Notch Adjustment|Start|
+|Notch Adjustment CW/CCW|X/Y|
+|Notch Adjustment Reset|B|
