@@ -16,7 +16,7 @@
 ## Tips
 
 ### Use Springless Triggers With Smash Ultimate
-----
+---
 
 Smash Ultimate ignores digital trigger press. Analog trigger value of ≥ 79 is required to activate shield. To achieve this on triggers with springs removed:
 1. Switch trigger mode to 5 or 6 (AB+L or AB+R)
