@@ -44,7 +44,7 @@ Mentioned on Aug 22, 2022:
 * Lower cotrol stick diagonals with y ≤ 7000 (jab cancel values). 
 * This allows to jab, return to crouch, jab by holding down and back (as an example).
 
-**Frosts's Preference (Ice Climbers)**
+**Frost's Preference (Ice Climbers)**
 
 Mentioned on Aug 22, 2022:
 
