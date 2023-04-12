@@ -6,8 +6,10 @@
 Table of Contents
 =================
 
-  * [Latest Software Versions](#latest-software-versions)
-  * [User Guides](#user-guides)
+  * [Quick Links](#quick-links)
+       * [General](#general) 
+       * [Latest Software Versions](#latest-software-versions)
+       * [User Guides](#user-guides)
   * [Tips](#tips)
      * [Use Springless Triggers With Smash Ultimate](#use-springless-triggers-with-smash-ultimate)
      * [Adjusting Analog Diagonals Values](#adjusting-analog-diagonals-values)
