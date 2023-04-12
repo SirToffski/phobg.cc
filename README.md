@@ -25,7 +25,7 @@ Smash Ultimate ignores digital trigger press. Analog trigger value of ≥ 79 is 
 ### Adjusting Analog Diagonals Values
 
 
-By default diagonals are set to x = ±7000, y = ±7000. These should be versatile for most use cases. However, it's worth trying to other values to see if they feel better or are more suitable for your playstyle.
+By default diagonals are set to `x = ±7000`, `y = ±7000`. These should be versatile for most use cases. However, it's worth trying to other values to see if they feel better or are more suitable for your playstyle.
 
 > **Note**
 > These may be out-of-date | historical | etc etc. Values presented below were mentioned by the corresponding user in PhobGCC discord as their preferred values at the time. This obviously might have changed.
@@ -34,21 +34,21 @@ By default diagonals are set to x = ±7000, y = ±7000. These should be versatil
 
 Mentioned on Feb 18, 2023:
 
-* North (top|high) corners: set y = 7250
-* South (bottom|low) corners: set y = 6750
+* North (top|high) corners: set `y = 7250`
+* South (bottom|low) corners: set `y = 6750`
 
 **CarVac's Preference (Falcon)**
 
 Mentioned on Aug 22, 2022: 
 
-* Lower cotrol stick diagonals with y ≤ 7000 (jab cancel values). 
+* South (bottom|low) cotrol stick diagonals with `y ≤ 7000` (jab cancel values). 
 * This allows to jab, return to crouch, jab by holding down and back (as an example).
 
 **Frost's Preference (Ice Climbers)**
 
 Mentioned on Aug 22, 2022:
 
-* South (bottom|low) corners - set y = 6875
+* South (bottom|low) corners - set `y = 6875`
 
 ## Commands Quick Reference
 
