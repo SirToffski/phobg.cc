@@ -1,5 +1,20 @@
 # phobgcc - quick reference
 
+Table of Contents
+=================
+
+  * [Latest Software Versions](#latest-software-versions)
+  * [User Guides](#user-guides)
+  * [Tips](#tips)
+     * [Use Springless Triggers With Smash Ultimate](#use-springless-triggers-with-smash-ultimate)
+     * [Adjusting Analog Diagonals Values](#adjusting-analog-diagonals-values)
+  * [Commands Quick Reference](#commands-quick-reference)
+  * [3rd Party Resources](#3rd-party-resources)
+     * [SmashScoppe](#smashscoppe)
+     * [Install Slippi and Overclock Adapter on Arch Linux or Arch-based distros](#install-slippi-and-overclock-adapter-on-arch-linux-or-arch-based-distros)
+
+
+
 > **Note**
 > This site is neither officially affiliated with nor has been endorsed by the PhobGCC developer team. Its purpose is to be a personal quick-reference guide. I have decided to make it publically available, however there is **no guarantee** of completeness, correctness or being up-to-date. The author claims no responsibility for anyone using any of the information below.
 
@@ -34,21 +49,21 @@ By default diagonals are set to `x = ±7000`, `y = ±7000`. These should be vers
 
 Mentioned on Feb 18, 2023:
 
-* North (top|high) corners: set `y = 7250`
-* South (bottom|low) corners: set `y = 6750`
+* North (top\|high) corners: set `y = 7250`
+* South (bottom\|low) corners: set `y = 6750`
 
 **CarVac's Preference (Falcon)**
 
 Mentioned on Aug 22, 2022: 
 
-* South (bottom|low) cotrol stick diagonals with `y ≤ 7000` (jab cancel values). 
+* South (bottom\|low) cotrol stick diagonals with `y ≤ 7000` (jab cancel values). 
 * This allows to jab, return to crouch, jab by holding down and back (as an example).
 
 **Frost's Preference (Ice Climbers)**
 
 Mentioned on Aug 22, 2022:
 
-* South (bottom|low) corners - set `y = 6875`
+* South (bottom\|low) corners - set `y = 6875`
 
 ## Commands Quick Reference
 
@@ -105,7 +120,7 @@ Mentioned on Aug 22, 2022:
 1. Do not use the Slippi Dolphin build, instead download mainline Dolhin at [https://dolphin-emu.org/download/](https://dolphin-emu.org/download/) (Windows/MacOS). On Linux - either use your distribution's pre-built package or [build it yourself](https://wiki.dolphin-emu.org/index.php?title=Building_Dolphin_on_Linux).
 2. If using a Mayflash, OEM or any other 2/4 port GCC adapter - use Port 1. In Dolphin controller settings, disable all Wiimotes.
 
-### Install Slippi and Overclock Adapter on Arch Linux (or Arch-based distros)
+### Install Slippi and Overclock Adapter on Arch Linux or Arch-based distros
 
 Here's a [guide I wrote for myself](https://gist.github.com/SirToffski/be41fa9a7e2a2629fad811da80f1a685) to use as a reference (it's easy to forget all the steps). It should be up-to-date and revelant as of April 12, 2023.
 
