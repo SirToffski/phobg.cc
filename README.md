@@ -30,14 +30,14 @@ Table of Contents
 ## Tips
 
 ### Use Springless Triggers With Smash Ultimate
-
+---
 
 Smash Ultimate ignores digital trigger press. Analog trigger value of ≥ 79 is required to activate shield. To achieve this on triggers with springs removed:
 1. Switch trigger mode to 5 or 6 (AB+L or AB+R)
 2. If using SmashScope - adjust (increase) the value until analog value is ≥ 79; if connected to Switch, adjust (increase) the value until pressing the trigger results in Shield (LB+Du/Dd or RB+Du/Dd). 
 
 ### Adjusting Analog Diagonals Values
-
+---
 
 By default diagonals are set to `x = ±7000`, `y = ±7000`. These should be versatile for most use cases. However, it's worth trying to other values to see if they feel better or are more suitable for your playstyle.
 
@@ -45,6 +45,7 @@ By default diagonals are set to `x = ±7000`, `y = ±7000`. These should be vers
 > These may be out-of-date | historical | etc etc. Values presented below were mentioned by the corresponding user in PhobGCC discord as their preferred values at the time. This obviously might have changed.
 
 **Rienne's Recommended Analog Diagonals Values**
+---
 
 Mentioned on Feb 18, 2023:
 
@@ -52,6 +53,7 @@ Mentioned on Feb 18, 2023:
 * South (bottom\|low) corners: set `y = 6750`
 
 **CarVac's Preference (Falcon)**
+---
 
 Mentioned on Aug 22, 2022: 
 
@@ -59,6 +61,7 @@ Mentioned on Aug 22, 2022:
 * This allows to jab, return to crouch, jab by holding down and back (as an example).
 
 **Frost's Preference (Ice Climbers)**
+---
 
 Mentioned on Aug 22, 2022:
 
@@ -109,7 +112,7 @@ Mentioned on Aug 22, 2022:
 ## 3rd Party Resources
 
 ### SmashScope
-
+---
 
 * **Download Link**: [https://goomwave.com/wp-content/uploads/2020/06/SmashScope.zip](https://goomwave.com/wp-content/uploads/2020/06/SmashScope.zip)
 * **Video Guide**: [https://youtu.be/XzgS1aDb7TQ](https://youtu.be/XzgS1aDb7TQ)
@@ -120,6 +123,7 @@ Mentioned on Aug 22, 2022:
 2. If using a Mayflash, OEM or any other 2/4 port GCC adapter - use Port 1. In Dolphin controller settings, disable all Wiimotes.
 
 ### Install Slippi and Overclock Adapter on Arch Linux or Arch-based distros
+---
 
 Here's a [guide I wrote for myself](https://gist.github.com/SirToffski/be41fa9a7e2a2629fad811da80f1a685) to use as a reference (it's easy to forget all the steps). It should be up-to-date and revelant as of April 12, 2023.
 
