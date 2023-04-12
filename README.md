@@ -10,7 +10,7 @@ Table of Contents
      * [Adjusting Analog Diagonals Values](#adjusting-analog-diagonals-values)
   * [Commands Quick Reference](#commands-quick-reference)
   * [3rd Party Resources](#3rd-party-resources)
-     * [SmashScoppe](#smashscoppe)
+     * [SmashScope](#SmashScope)
      * [Install Slippi and Overclock Adapter on Arch Linux or Arch-based distros](#install-slippi-and-overclock-adapter-on-arch-linux-or-arch-based-distros)
 
 
@@ -109,13 +109,13 @@ Mentioned on Aug 22, 2022:
 
 ## 3rd Party Resources
 
-### SmashScoppe
+### SmashScope
 
 
 * **Download Link**: [https://goomwave.com/wp-content/uploads/2020/06/SmashScope.zip](https://goomwave.com/wp-content/uploads/2020/06/SmashScope.zip)
 * **Video Guide**: [https://youtu.be/XzgS1aDb7TQ](https://youtu.be/XzgS1aDb7TQ)
 
-#### SmashScoppe on Dolphin
+#### SmashScope on Dolphin
 
 1. Do not use the Slippi Dolphin build, instead download mainline Dolhin at [https://dolphin-emu.org/download/](https://dolphin-emu.org/download/) (Windows/MacOS). On Linux - either use your distribution's pre-built package or [build it yourself](https://wiki.dolphin-emu.org/index.php?title=Building_Dolphin_on_Linux).
 2. If using a Mayflash, OEM or any other 2/4 port GCC adapter - use Port 1. In Dolphin controller settings, disable all Wiimotes.
