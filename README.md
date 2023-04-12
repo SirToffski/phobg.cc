@@ -149,7 +149,7 @@ Also of interest - Hax$' **Advanced Phob Calibration Guide for SSBM** video [^7]
 
 #### SmashScope on Dolphin
 
-1. Do not use the Slippi Dolphin build, instead download mainline Dolhin at [https://dolphin-emu.org/download/](https://dolphin-emu.org/download/) (Windows/MacOS). On Linux - either use your distribution's pre-built package or [build it yourself](https://wiki.dolphin-emu.org/index.php?title=Building_Dolphin_on_Linux).
+1. Do not use the Slippi Dolphin build, instead download mainline Dolphin at [https://dolphin-emu.org/download/](https://dolphin-emu.org/download/) (Windows/MacOS). On Linux - either use your distribution's pre-built package or [build it yourself](https://wiki.dolphin-emu.org/index.php?title=Building_Dolphin_on_Linux).
 2. If using a Mayflash, OEM or any other 2/4 port GCC adapter - use Port 1. In Dolphin controller settings, disable all Wiimotes.
 
 ### Install Slippi and Overclock Adapter on Arch Linux or Arch-based distros
