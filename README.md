@@ -39,7 +39,7 @@ Smash Ultimate ignores digital trigger press. Analog trigger value of ≥ 79 is 
 ### Adjusting Analog Diagonals Values
 ---
 
-By default diagonals are set to `x = ±7000`, `y = ±7000`. These should be versatile for most use cases. However, it's worth trying to other values to see if they feel better or are more suitable for your playstyle.
+By default diagonals are set to `x = ±7000`, `y = ±7000`. These should be versatile for most use cases. However, it's worth trying other values to see if they feel better or are more suitable for your playstyle.
 
 > **Note**
 > These may be out-of-date | historical | etc etc. Values presented below were mentioned by the corresponding user in PhobGCC discord as their preferred values at the time. This obviously might have changed.
