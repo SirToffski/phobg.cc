@@ -16,12 +16,24 @@ Table of Contents
      * [SmashScope](#SmashScope)
      * [Install Slippi and Overclock Adapter on Arch Linux or Arch-based distros](#install-slippi-and-overclock-adapter-on-arch-linux-or-arch-based-distros)
 
+## Quick Links
 
-## Latest Software Versions
+### General
+---
+
+* PhobGCC Discord: [https://discord.gg/hKDQmPJ6](https://discord.gg/hKDQmPJ6)
+* PhoGCC Sofware Repository: [https://github.com/PhobGCC/PhobGCC-SW](https://github.com/PhobGCC/PhobGCC-SW)
+* PhoGCC Documentation Repository: [https://github.com/PhobGCC/PhobGCC-doc](https://github.com/PhobGCC/PhobGCC-doc)
+* PhobGCC Hardware: [https://github.com/PhobGCC/PhobGCC-HW](https://github.com/PhobGCC/PhobGCC-HW)
+
+### Latest Software Versions
+---
+
 * **For V1 Boards**: [https://github.com/PhobGCC/PhobGCC-SW/archive/refs/tags/v0.28.zip](https://github.com/PhobGCC/PhobGCC-SW/archive/refs/tags/v0.28.zip)
 * **For V2 Boards**: [https://github.com/PhobGCC/PhobGCC-SW/releases/download/v0.28/phobgcc_rp2040_v0.28.uf2](https://github.com/PhobGCC/PhobGCC-SW/releases/download/v0.28/phobgcc_rp2040_v0.28.uf2)
 
-## User Guides
+### User Guides
+---
 
 * **Programming Guide for V1 Boards** (updating software): [https://github.com/PhobGCC/PhobGCC-doc/blob/main/For_Users/Phob_Programming_Guide.md](https://github.com/PhobGCC/PhobGCC-doc/blob/main/For_Users/Phob_Programming_Guide.md)
 * **Programming Guide for V2 Boards** (updating software): [https://github.com/PhobGCC/PhobGCC-doc/blob/main/For_Users/Phob2_Programming_Guide.md](https://github.com/PhobGCC/PhobGCC-doc/blob/main/For_Users/Phob2_Programming_Guide.md)
@@ -44,28 +56,44 @@ By default diagonals are set to `x = ±7000`, `y = ±7000`. These should be vers
 > **Note**
 > These may be out-of-date | historical | etc etc. Values presented below were mentioned by the corresponding user in PhobGCC discord as their preferred values at the time. This obviously might have changed.
 
-**Rienne's Recommended Analog Diagonals Values**
+**Rienne's Standard Analog Diagonals Values**
 ---
-
-Mentioned on Feb 18, 2023:
 
 * North (top\|high) corners: set `y = 7250`
 * South (bottom\|low) corners: set `y = 6750`
 
+Some references [^1] and [^2].
+
 **CarVac's Preference (Falcon)**
 ---
-
-Mentioned on Aug 22, 2022: 
 
 * South (bottom\|low) cotrol stick diagonals with `y ≤ 7000` (jab cancel values). 
 * This allows to jab, return to crouch, jab by holding down and back (as an example).
 
+Some references [^3] and [^4].
+
 **Frost's Preference (Ice Climbers)**
 ---
 
-Mentioned on Aug 22, 2022:
-
 * South (bottom\|low) corners - set `y = 6875`
+
+References: [^5]
+
+**Other Useful Ranges**
+---
+
+Hax$ has shared the following useful ranges for `y`:
+
+|Axis|From|To|Utility|
+|----|----|--|-------|
+|y|-6125|-6500|down-angled ftilt|
+|y|-6250|-6875|crouch walk option select|
+|y|-6625|-6875|vanilla shield drop|
+|y|-7000|-7500|jab cancel (down+back while jabbing will immediately interrupt the jab combo with a crouch that you can jab 1 out of)|
+
+Reference: [^6]
+
+Also of interest - Hax$' **Advanced Phob Calibration Guide for SSBM** video [^7].
 
 ## Commands Quick Reference
 
@@ -127,3 +155,12 @@ Mentioned on Aug 22, 2022:
 
 Here's a [guide I wrote for myself](https://gist.github.com/SirToffski/be41fa9a7e2a2629fad811da80f1a685) to use as a reference (it's easy to forget all the steps). It should be up-to-date and revelant as of April 12, 2023.
 
+## References
+
+[^1]: https://discord.com/channels/931041165007028234/931726953348747284/999471442880106616
+[^2]: https://discord.com/channels/931041165007028234/931726953348747284/999471507296223233
+[^3]: https://discord.com/channels/931041165007028234/931726953348747284/1065017200156622858
+[^4]: https://discord.com/channels/931041165007028234/931726953348747284/1065020553385214003
+[^5]: https://discord.com/channels/931041165007028234/931726953348747284/1011304212245774486
+[^6]: https://discord.com/channels/931041165007028234/931041170002440197/931231099097604147
+[^7]: https://www.youtube.com/watch?v=IFixXQ62dt0
