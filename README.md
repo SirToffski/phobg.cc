@@ -31,9 +31,9 @@ Table of Contents
 ### Latest Software Versions
 ---
 
-* **For V1 Boards**: [https://github.com/PhobGCC/PhobGCC-SW/archive/refs/tags/v0.28.zip](https://github.com/PhobGCC/PhobGCC-SW/archive/refs/tags/v0.28.zip)
-* **For V2 Boards**: [https://github.com/PhobGCC/PhobGCC-SW/releases/download/v0.28/phobgcc_rp2040_v0.28.uf2](https://github.com/PhobGCC/PhobGCC-SW/releases/download/v0.28/phobgcc_rp2040_v0.28.uf2)
-
+v0.29 - May 11, 2023
+* **For V1 Boards**: [https://github.com/PhobGCC/PhobGCC-SW/archive/refs/tags/v0.29.zip](https://github.com/PhobGCC/PhobGCC-SW/archive/refs/tags/v0.29.zip)
+* **For V2 Boards**: [https://github.com/PhobGCC/PhobGCC-SW/releases/download/v0.29/phobgcc_rp2040_v0.29.uf2](https://github.com/PhobGCC/PhobGCC-SW/releases/download/v0.29/phobgcc_rp2040_v0.29.uf2)
 ### User Guides
 ---
 
@@ -138,6 +138,12 @@ Also of interest - Hax$' **Advanced Phob Calibration Guide for SSBM** video [^7]
 |Toggle R Trigger Mode|AB+R|
 |L-trigger Offset|LB+Du/Dd|
 |R-Trigger Offset|RB+Du/Dd|
+|Analog stick cardinal snapping adjustment|RA+Du/Dd|
+|C-stick cardinal snapping adjustment|RAZ+Du/Dd|
+|Analog stick scaling|LA+Du/Dd|
+|C-stick scaling|LAZ+Du/Dd|
+|Tournament button lockout|Z+Start|
+
 
 ## 3rd Party Resources
 
