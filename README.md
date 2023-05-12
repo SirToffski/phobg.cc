@@ -99,6 +99,20 @@ Also of interest - Hax$' **Advanced Phob Calibration Guide for SSBM** video [^7]
 
 ## Commands Quick Reference
 
+New in v0.29
+----
+
+|Command|Buttons|
+|-------|-------|
+|Analog stick cardinal snapping adjustment|RA+Du/Dd|
+|C-stick cardinal snapping adjustment|RAZ+Du/Dd|
+|Analog stick scaling|LA+Du/Dd|
+|C-stick scaling|LAZ+Du/Dd|
+|Tournament button lockout|Z+Start|
+
+----
+
+
 |Command|Buttons|
 |-------|-------|
 |Safe Mode on\off|AXY+Start|
@@ -138,11 +152,6 @@ Also of interest - Hax$' **Advanced Phob Calibration Guide for SSBM** video [^7]
 |Toggle R Trigger Mode|AB+R|
 |L-trigger Offset|LB+Du/Dd|
 |R-Trigger Offset|RB+Du/Dd|
-|Analog stick cardinal snapping adjustment|RA+Du/Dd|
-|C-stick cardinal snapping adjustment|RAZ+Du/Dd|
-|Analog stick scaling|LA+Du/Dd|
-|C-stick scaling|LAZ+Du/Dd|
-|Tournament button lockout|Z+Start|
 
 
 ## 3rd Party Resources
