@@ -34,6 +34,9 @@ Table of Contents
 v0.29 - May 11, 2023
 * **For V1 Boards**: [https://github.com/PhobGCC/PhobGCC-SW/archive/refs/tags/v0.29.zip](https://github.com/PhobGCC/PhobGCC-SW/archive/refs/tags/v0.29.zip)
 * **For V2 Boards**: [https://github.com/PhobGCC/PhobGCC-SW/releases/download/v0.29/phobgcc_rp2040_v0.29.uf2](https://github.com/PhobGCC/PhobGCC-SW/releases/download/v0.29/phobgcc_rp2040_v0.29.uf2)
+
+[Release Notes](https://github.com/PhobGCC/PhobGCC-SW/releases/tag/v0.29)
+
 ### User Guides
 ---
 
